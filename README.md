@@ -1,4 +1,4 @@
-# Archipelago.gg Ubuntu 22.04 Server Installation Guide
+# Archipelago.gg Self Hosted Ubuntu Server 22.04 Guide
 This guide was written assuming the user has Ubuntu Server 22.04 installed in a virtualized environment using an SSH client to communicate with the server. 
 Please note we will not go over how to install Ubuntu Server 22.04 or how to use an SSH client. These steps will likely work with other versions of Ubuntu
 or another Debian based system.
